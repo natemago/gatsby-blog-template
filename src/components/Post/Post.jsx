@@ -11,7 +11,7 @@ import "../../../content/styles/code-highlight.scss";
 
 const Post = ({ postNode, config, slug }) => {
   const post = postNode.frontmatter;
-  console.log('Axa', post)
+  
   if (!post.id) {
     post.id = slug;
   }
