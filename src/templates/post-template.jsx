@@ -49,6 +49,7 @@ export const pageQuery = graphql`
         tags
         description
         keywords
+        author
         cover {
           childImageSharp {
             fixed(width: 660, quality: 100) {
