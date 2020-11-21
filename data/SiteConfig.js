@@ -21,6 +21,7 @@ const config = {
   postTagged: "",
   postInCategories: "",
   postOnDate: "Posted on",
+  author: "Author: ",
   // Use for comment
   lazyLoadComments: true,
   disqusShortname: "template", // Disqus shortname.
