@@ -1,68 +1,31 @@
 ---
 template: "page"
 title: "Contact"
-description: "This is a description on Contact"
+description: "Flashreads info"
 slug: "contact"
 ---
 
-Lorem **markdownum** Ixione palus **semper peritura barbaque** in aureus
-obliquum erigitur gemmae utque cur natus, aera supplice de nudae. Manus
-ambrosiam tendens, saecula tenet, conponere et ense et cucurri. Tantique
-animalia praeceps Meleagre greges venisse corpore et ignara, umquam ipse? Quam
-*Talibus ausis*.
+We are accepting tech-related short(1 minute read) blogs. The blogs will always be published or re-shared under the Author's name.
 
-## Sedisti civiliter
+### Contribute
 
-Lorem **markdownum** Ixione palus **semper peritura barbaque** in aureus
-obliquum erigitur gemmae utque cur natus, aera supplice de nudae. Manus
-ambrosiam tendens, saecula tenet, conponere et ense et cucurri. Tantique
-animalia praeceps Meleagre greges venisse corpore et ignara, umquam ipse? Quam
-*Talibus ausis*.
+Fork the [flashread/blogs](https://github.com/flashreads/blogs) repository and make a PR with your changes.
 
-## Vultusque subsequitur Pallas regis datis inde animaque
+To add a new blog:
+* Please, do not just copy and paste content from the web.
+* Add it to the corresponding directory **{topic}/{number.title.md}** e.g python/013-find-pypi-downloads.md
+* Follow the [template](https://github.com/flashreads/blogs/blob/master/template.md) example for structuring the markdown file.
+* The tags, author, and meta description labels are required.
+* Fork the repository and make PR.
 
-At securim cautum capitis, creatos sanguinis turbant iam concita videor, edere.
-Alis genas rudis felix quas **longum** suorum manu ante prima **usque**. Nec pro
-mea pariter, ictus iam consequitur capillos elegit ego; quoniam **fuit**. Aether
-Peleus Aeneadae audacia cruentatis turbae Procrin dirum bacae, accede.
+## Join us 
 
-```php
-    urlLinkedin.midi_manet -= namespace(backsideKilobitBezel);
-    var ddr = storage_wordart_sdram;
-    python.raw_backlink = rfid_load - 4;
-    kibibyte *= cdnThumbnailUri;
-```
+If you want to join our organization and contribute more often send a email to zoran.pandovski@gmail.com
 
-## Fortis dextrae humo limina Tempus singultibus illa
+## Theme
 
-Nate muros orbe [patris](http://debebuntilla.org/res-ego) rigent, nec tumida,
-pigra iuste At spretarumque latus et nostrum. Passa videtur: inde aut de
-sociorum: pars est, qualesque spes factum terris. Custodia sum animumque; iubet
-in pulvere carus, relinquunt incitat. Aliis quo tribus, vertice cesserunt
-vulneribus nostrae mollire erant ferrum habet loquiturque precibus expersque
-quam etiamnunc. Puraque [repetitque](http://mihi-aiax.io/suaferunt.aspx),
-funestaque crebros mihi conubia matres insopitumque residunt rogat ponto canos
-ergo firmat albentia verba casuque.
+Thanks to Completejavascript for the [gatsby theme](https://github.com/completejavascript/gatsby-blog-template).
 
-```perl
-    if (lion_vdu + vrml_upnp - redundancyAccessPharming) {
-        driveProcessor = floatingWord(commerceDockRestore(database));
-    } else {
-        partition_source_thunderbolt = -2 + tokenStateArchive /
-                teraflops_gigahertz;
-    }
-    exabytePhpMacintosh -= graphic_cycle(expression, memory(ideFatMatrix,
-            controlInboxMode), 50) + -3;
-    buffer_apple_hdmi += viralSync + internetDigital / tweak_perl_expansion(
-            masterNullFloating + vdu, software_play);
-```
+## License
 
-## Nati expugnacior nympha milia nascuntur amico
-
-Multis timidus hic si auctor hausit. Suos taedasque, malis est nitente sceleri
-sunt florem.
-
-Sub quid deprenderat mores postquam tectoque maiestatemque debebat quibus;
-subitam amittere illius esse dona. Quamvis patris virtutem, partem una per
-iuvenaliter, stupet, sed nullae sepulto moderato? Nec phaedimus aequoris dixit.
-Hic bis parenti: e petunt satis.
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/2.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/">Creative Commons Attribution-ShareAlike 2.0 Generic License</a>.
