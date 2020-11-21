@@ -1,7 +1,7 @@
 const config = {
   // Site info
   siteTitle: "Flashreads", // Site title.
-  siteTitleShort: "GB Template", // Short site title for homescreen (PWA). Preferably should be under 12 characters to prevent truncation.
+  siteTitleShort: "Flashreads", // Short site title for homescreen (PWA). Preferably should be under 12 characters to prevent truncation.
   siteTitleAlt: "Flashreads blog", // Alternative site title for SEO.
   siteLogo: "/logos/logo.png", // Logo used for SEO and manifest.
   siteUrl: "https://theflashreads.com/", // Domain of your website without pathPrefix.
@@ -52,7 +52,7 @@ const config = {
   // Use for Google custom search
   searchWidgetTitle: "Looking for?",
   searchWidgetPlaceHolder: "Enter keyword",
-  searchEngineID: "9ybvtnkbt7o",
+  //searchEngineID: "9ybvtnkbt7o",
   hasSearch: true,
   // Use for links widget
   sidebarSticky: true,
@@ -70,10 +70,9 @@ const config = {
     }
   ],
   // Use for navigation
-  navTitle: "GB Template",
+  navTitle: "Flashreads",
   navLinks: [
-    { label: "About", url: "/about" },
-    { label: "Contact", url: "/contact" },
+    { label: "Info", url: "/contact" },
   ],
   // Use for footer
   socialLinks: [
@@ -91,7 +90,7 @@ const config = {
   footerLinks: [
     { label: "Home", url: "/" }
   ],
-  copyright: "Copyright © 2019-2020 Lam Pham. Unless otherwise noted, all code MIT license.",
+  copyright: "Copyright © 2019-2020 Flashreads. Unless otherwise noted, all code MIT license.",
   // Use for manifest
   themeColor: "#2196F3", // Used for setting manifest and progress theme colors.
   backgroundColor: "#FFF" // Used for setting manifest background color.
