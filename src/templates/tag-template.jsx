@@ -83,6 +83,7 @@ export const pageQuery = graphql`
           frontmatter {
             title
             tags
+            author
             categories
             cover {
               childImageSharp {

@@ -82,6 +82,7 @@ export const pageQuery = graphql`
           timeToRead
           frontmatter {
             title
+            author
             tags
             cover {
               childImageSharp {
