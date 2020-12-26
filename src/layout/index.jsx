@@ -13,6 +13,7 @@ const MainLayout = ({ children, hasFooter = true }) => (
   <div>
     <Helmet htmlAttributes={{ lang: siteConfig.siteLang }}>
       <meta name="description" content={siteConfig.siteDescription} />
+      <meta name="google-site-verification" content={siteConfig.googleSiteVerification} />
       <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
     </Helmet>
     <Navigation 
