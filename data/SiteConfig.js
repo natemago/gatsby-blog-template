@@ -11,6 +11,7 @@ const config = {
   siteLang: "en",
   siteFBAppID: "", // FB Application ID for using app insights
   googleAnalyticsID: "UA-7", // GA tracking ID.
+  googleSiteVerification: "w8QmqtnEf96t3O1LZ1oe-ShyFPKLK14SW4c9kqnB5PE", //Google search console
   postDefaultCategoryID: "", // Default category for posts.
   // Common for tag, category pages and widget
   numberLatestPost: 8,
